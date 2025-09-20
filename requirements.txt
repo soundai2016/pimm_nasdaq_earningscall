@@ -1,0 +1,17 @@
+pandas 
+numpy 
+statsmodels 
+tqdm 
+matplotlib 
+seaborn
+scikit-learn
+wordcloud
+nltk
+scipy
+arch
+setuptools
+pandas_datareader
+xgboost
+Calibrator
+nasdaq-data-link
+linearmodels

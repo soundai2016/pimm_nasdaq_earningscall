@@ -1,0 +1,12 @@
+{
+  "api_type": "deepseek",
+  "deepseek_api_key": "sk-XXXX",
+  "deepseek_model": "deepseek-r1",
+  "deepseek_base_url": "https://api.lkeap.cloud.tencent.com/v1",
+  "openai_api_key": "your-openai-api-key-here",
+  "openai_base_url": null,
+  "claude_api_key": "your-claude-api-key-here",
+  "custom_api_url": "http://localhost:8000/v1/chat/completions",
+  "custom_api_key": "your-custom-api-key-here",
+  "custom_model": "gpt-3.5-turbo"
+}
