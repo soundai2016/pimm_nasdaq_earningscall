@@ -91,8 +91,10 @@ Use scripts in the `analysis/` directory to train models and generate results:
 @article{chen2025physics,
   title={Physics-informed modeling uncovers a persistent predictive penalty from vocal affect in markets},
   author={Chen, Xiaoliang and Chang, Le and Yu, Xin and Huang, Yunhe and Jing, Teng and He, Jiashuai and Luo, Yangjun and Cai, Yixuan and Qiu, Yuebo and Sun, Peiwen},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+  journal={Research Square},
+  year={2025},
+  doi={10.21203/rs.3.rs-7655247/v1},
+  url={https://doi.org/10.21203/rs.3.rs-7655247/v1}
 }
 ```
 
